@@ -19,7 +19,7 @@ Our core team member `Anush Bundel` spent 2 months polishing, our `WTFxIGDC game
 
 ### 2) [Funky Blueprints](https://bharathk33.itch.io/funkyblueprints)
 <p align="center">
-![Dungeon Man](Assets/Funky%20Blueprints.png)
+ <img src = Assets/Funky%20Blueprints.png> </img>
 </p>
 
 The heart wants to be whole again but what perils shall lie in its path. The canvas is open and your imagination is the limit.
