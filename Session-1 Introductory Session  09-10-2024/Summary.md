@@ -88,7 +88,7 @@ Job, Once a peaceful villager, he lived his days in harmony—until a curse from
 - Creators : Anush Bundel, Namit , Ashwin S
 - Genre : Strategy
 
-### 7) [The Cursed Frostbite](https://bharathk33.itch.io/disarm-it)
+### 7) [Disarm It](https://bharathk33.itch.io/disarm-it)
 <p align="center">
  <img src = "Assets/DisarmIt.jpg"> </img>
 </p>
@@ -96,7 +96,7 @@ Job, Once a peaceful villager, he lived his days in harmony—until a curse from
 The notorious mad scientist, Dam, has trapped you in one of his twisted experiments. You're behind the wheel of a car that can never stop—if it does, you'll be blown to pieces. The rules of this deadly game are always changing, forcing you to adapt to each new twist, survive until the timer ticks to zero.
 
 - Engine : Godot
-- Creators : Anush Bundel , Krishna Narayan 
+- Creators : Bharath Krishnan, Krishna Narayan 
 - Genre : Platformer
 
 ### 8) [Space Slime Invasion](https://electrocubic.itch.io/space-slime-invasion)
