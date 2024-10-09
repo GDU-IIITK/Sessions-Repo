@@ -16,3 +16,15 @@ Our core team member `Anush Bundel` spent 2 months polishing, our `WTFxIGDC game
 - Engine : Godot
 - Creator : Anush Bundel
 - Genre : Survial Horror
+
+### 2) [Funky Blueprints](https://bharathk33.itch.io/funkyblueprints)
+<p align="center">
+![Dungeon Man](Assets/Funky%20Blueprints.png)
+</p>
+
+The heart wants to be whole again but what perils shall lie in its path. The canvas is open and your imagination is the limit.
+
+- Engine : Godot
+- Creator : Anush Bundel, Gowrish I, Bharath Krishnan, Ankur Majumdar
+- Genre : Puzzle, Physics
+
