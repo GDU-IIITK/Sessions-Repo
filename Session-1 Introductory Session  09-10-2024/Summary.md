@@ -84,7 +84,7 @@ Job, Once a peaceful villager, he lived his days in harmony—until a curse from
 
 Job, Once a peaceful villager, he lived his days in harmony—until a curse from a wicked witch changed everything. Now, when night falls, he prowls the village, driven by an insatiable hunger for fresh blood. But his heart remains kind, and he refuses to let his friends become victims of his fate. So, each evening, as the sun sets, he fortifies his home, setting up barricades and defenses, doing everything he can to protect the people he loves from the monster he's become.
 
-- Engine : Unity
+- Engine : Godot 
 - Creators : Anush Bundel, Namit , Ashwin S
 - Genre : Strategy
 
@@ -95,7 +95,7 @@ Job, Once a peaceful villager, he lived his days in harmony—until a curse from
 
 The notorious mad scientist, Dam, has trapped you in one of his twisted experiments. You're behind the wheel of a car that can never stop—if it does, you'll be blown to pieces. The rules of this deadly game are always changing, forcing you to adapt to each new twist, survive until the timer ticks to zero.
 
-- Engine : Godot
+- Engine : Unity 
 - Creators : Bharath Krishnan, Krishna Narayan 
 - Genre : Platformer
 
