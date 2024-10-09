@@ -1,11 +1,22 @@
-
 # <p align="center">Introductory Session </p>
 #### Date: 09/10/2024 
 #### Speakers: Anush Bundel, Ashwin S, Vipin
 
 
 ## GDU IIITK Games Catalogue
-### 1) [Dungeon Man](https://electrocubic.itch.io/dungeon-man)
+### Contents
+#### 1) [Dungeon Man](#dungeon-man)
+#### 2) [Funky Blueprints](#funky-blueprints)
+#### 3) [Mini Brawlers](#mini-brawlers)
+#### 4) [Wing It](#wing-it)
+#### 5) [Dream Sequencer](#dream-sequencer)
+#### 6) [Duel](#duel)
+#### 7) [The Cursed FrostBite](#the-cursed-frostbite)
+#### 8) [Disarm It](#disarm-it)
+#### 9) [Space Slime Invasion](#space-slime-invasion)
+
+
+### 1) <a id="dungeon-man"></a>[Dungeon Man](https://electrocubic.itch.io/dungeon-man)
 ![Dungeon Man](Assets/DungeonManNew.png)
 
 Greetings, Brave Adventurer! You have finally decided to venture into The Dark Dungeons, where the Legendary Sword awaits its true conqueror! But beware the ghostly beings crawling throughout the twisty and narrow pathways in the depths of the Dark Dungeons... you cannot survive long without your flashlight. And also to assist you in your conquest of acquiring the Legendary Sword, you have been provided with a supernatural Radar to detect presence of such ghostly beings! Now get ready to have a adventure full of twists and turns, and of course lots of treasured coins!
@@ -15,9 +26,9 @@ Just Don't Drown in the Darkness... and Have Fun! :)
 Our core team member `Anush Bundel` spent 2 months polishing, our `WTFxIGDC game jam` submission [Dungeon Man Old](https://bharathk33.itch.io/radar-game), made by our core team member `Anush Bundel, Bharath Krishnan, Gowrish I, Ashwin S`
 - Engine : Godot
 - Creators : Anush Bundel
-- Genre : Survial Horror
+- Genre : Survival Horror
 
-### 2) [Funky Blueprints](https://bharathk33.itch.io/funkyblueprints)
+### 2) <a id="funky-blueprints"></a>[Funky Blueprints](https://bharathk33.itch.io/funkyblueprints)
 <p align="center">
  <img src = "Assets/Funky%20Blueprints.png"> </img>
 </p>
@@ -28,18 +39,18 @@ The heart wants to be whole again but what perils shall lie in its path. The can
 - Creators : Anush Bundel, Gowrish I, Bharath Krishnan, Ankur Majumdar
 - Genre : Puzzle, Physics
 
-### 3) [MiniBrawlers](https://electrocubic.itch.io/mini-brawlers)
+### 3) <a id="mini-brawlers"></a>[Mini Brawlers](https://electrocubic.itch.io/mini-brawlers)
 <p align="center">
  <img src = "Assets/MiniBrawlers.png"> </img>
 </p>
 
-Chaotic dudes trying to stay alive in a fast paced world of fiery death. One thing is for sure death is inevitable.
+Chaotic dudes trying to stay alive in a fast-paced world of fiery death. One thing is for sure—death is inevitable.
 
 - Engine : Godot
 - Creators : Anush Bundel
 - Genre : Roguelike, Shooter, Arcade
 
-### 4) [Wing It](https://bharathk33.itch.io/wingit)
+### 4) <a id="wing-it"></a>[Wing It](https://bharathk33.itch.io/wingit)
 <p align="center">
  <img src = "Assets/WingIt.jpg"> </img>
 </p>
@@ -50,7 +61,7 @@ Bounce along as you try to escape the dangerous rocks falling with our young bir
 - Creators : Bharath Krishnan, Gowrish I, Govind S, Pratyush Nanda
 - Genre : Endless, Arcade 
 
-### 5) [Dream Sequencer](https://electrocubic.itch.io/dream-sequencer)
+### 5) <a id="dream-sequencer"></a>[Dream Sequencer](https://electrocubic.itch.io/dream-sequencer)
 <p align="center">
  <img src = "Assets/DreamSequencer.png"> </img>
 </p>
@@ -61,34 +72,32 @@ Put your platforming and puzzle-solving skills to the test with this literal min
 Made during the GameVita 3.0 Game Jam hosted by GameDevUtopia. Made in 4 days in Godot Game Engine.
 
 - Engine : Godot
-- Creators : Anush Bundel , Ashwin S, Alex Gijo 
-- Genre : Puzzle , Platformer 
+- Creators : Anush Bundel, Ashwin S, Alex Gijo
+- Genre : Puzzle, Platformer 
 
-### 5) [Duel](https://bharathk33.itch.io/duel)
+### 6) <a id="duel"></a>[Duel](https://bharathk33.itch.io/duel)
 <p align="center">
  <img src = "Assets/Duel.png"> </img>
 </p>
 
-Job, Once a peaceful villager, he lived his days in harmony—until a curse from a wicked witch changed everything. Now, when night falls, he prowls the village, driven by an insatiable hunger for fresh blood. But his heart remains kind, and he refuses to let his friends become victims of his fate. So, each evening, as the sun sets, he fortifies his home, setting up barricades and defenses, doing everything he can to protect the people he loves from the monster he's become.
+Job, once a peaceful villager, lived his days in harmony—until a curse from a wicked witch changed everything. Now, when night falls, he prowls the village, driven by an insatiable hunger for fresh blood. But his heart remains kind, and he refuses to let his friends become victims of his fate. So, each evening, as the sun sets, he fortifies his home, setting up barricades and defenses, doing everything he can to protect the people he loves from the monster he's become.
 
 - Engine : Unity
 - Creators : Bharath Krishnan, Krishna Narayan 
 - Genre : Strategy
 
-
-
-### 6) [The Cursed Frostbite](https://electrocubic.itch.io/the-cursed-frostbite)
+### 7) <a id="the-cursed-frostbite"></a>[The Cursed Frostbite](https://electrocubic.itch.io/the-cursed-frostbite)
 <p align="center">
  <img src = "Assets/CursedFrostbite.png"> </img>
 </p>
 
-Job, Once a peaceful villager, he lived his days in harmony—until a curse from a wicked witch changed everything. Now, when night falls, he prowls the village, driven by an insatiable hunger for fresh blood. But his heart remains kind, and he refuses to let his friends become victims of his fate. So, each evening, as the sun sets, he fortifies his home, setting up barricades and defenses, doing everything he can to protect the people he loves from the monster he's become.
+Job, once a peaceful villager, lived his days in harmony—until a curse from a wicked witch changed everything. Now, when night falls, he prowls the village, driven by an insatiable hunger for fresh blood. But his heart remains kind, and he refuses to let his friends become victims of his fate. So, each evening, as the sun sets, he fortifies his home, setting up barricades and defenses, doing everything he can to protect the people he loves from the monster he's become.
 
 - Engine : Godot 
-- Creators : Anush Bundel, Namit , Ashwin S
+- Creators : Anush Bundel, Namit, Ashwin S
 - Genre : Strategy
 
-### 7) [Disarm It](https://bharathk33.itch.io/disarm-it)
+### 8) <a id="disarm-it"></a>[Disarm It](https://bharathk33.itch.io/disarm-it)
 <p align="center">
  <img src = "Assets/DisarmIt.jpg"> </img>
 </p>
@@ -99,12 +108,12 @@ The notorious mad scientist, Dam, has trapped you in one of his twisted experime
 - Creators : Bharath Krishnan, Krishna Narayan 
 - Genre : Platformer
 
-### 8) [Space Slime Invasion](https://electrocubic.itch.io/space-slime-invasion)
+### 9) <a id="space-slime-invasion"></a>[Space Slime Invasion](https://electrocubic.itch.io/space-slime-invasion)
 <p align="center">
  <img src = "Assets/SpaceSlimeInvasion.png"> </img>
 </p>
 
-These slimes look harmless at first glance but their body is poisonous in nature and very lethal to a human being. The space shuttle activated its spike and saw defense mechanism to prevent the intruders from entering your space shuttle. But alas, the slimes remain unaffected by it. So in order to defend yourself, you have to reach the space shuttle's defense turret and defend against hoards of enemy spaceships attacking your space shuttle.
+These slimes look harmless at first glance, but their body is poisonous in nature and very lethal to a human being. The space shuttle activated its spike and saw defense mechanism to prevent the intruders from entering your space shuttle. But alas, the slimes remain unaffected by it. So in order to defend yourself, you have to reach the space shuttle's defense turret and defend against hordes of enemy spaceships attacking your space shuttle.
 
 - Engine : Defold 
 - Creators : Anush Bundel, Ashwin S 
