@@ -1,6 +1,6 @@
 # <p align="center">Introductory Session </p>
 #### Date: 09/10/2024 
-#### Speakers: Anush Bundel, Ashwin S, Vipin
+#### Speakers: Anush Bundel, Ashwin S, Vipin Karthik
 
 
 ## GDU IIITK Games Catalogue
