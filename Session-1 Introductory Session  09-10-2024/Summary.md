@@ -14,7 +14,11 @@
 #### 7) [The Cursed FrostBite](#the-cursed-frostbite)
 #### 8) [Disarm It](#disarm-it)
 #### 9) [Space Slime Invasion](#space-slime-invasion)
+#### 10) [Eclipse of The Abyss](#eclipse-of-the-abyss)
+#### 11) [Tiny Bloc](#tiny-bloc)
+#### 12) [Push Duel](#push-duel)
 
+<hr><br>
 
 ### <h1> 1) <a id="dungeon-man">[Dungeon Man](https://electrocubic.itch.io/dungeon-man)</a></h1>
 ![Dungeon Man](Assets/DungeonManNew.png)
@@ -119,3 +123,32 @@ These slimes look harmless at first glance, but their body is poisonous in natur
 - Creators : Anush Bundel, Ashwin S 
 - Genre : Platformer, Arcade Shooter
 
+## Special Mention For Games Made By Batch 2024
+
+### <h1> 10) <a id="eclipse-of-the-abyss"></a>[Eclipse of The Abyss](https://ldjam.com/events/ludum-dare/56/eclipse-of-the-abyss) </h1>
+<p align="center">
+ <img src = "Assets/EclipseOfTheAbyss.png"> </img>
+</p>
+
+- Engine : Unity
+- Creators : Harsh Parekh 
+- Genre : Top-Down Survival
+  
+### <h1> 11) <a id="tiny-bloc"></a>[Tiny Bloc](https://ldjam.com/events/ludum-dare/56/tinybloc) </h1>
+<p align="center">
+ <img src = "Assets/TinyBloc.png"> </img>
+</p>
+
+- Engine : Unity 
+- Creators : Ashutosh Shukla
+- Genre : Platformer
+
+### <h1> 12) <a id="push-duel"></a>[Push Duel](https://shaniddev.itch.io/push-duel) </h1>
+<p align="center">
+ <img src = "Assets/PushDuel.png"> </img>
+</p>
+
+- Engine : Unity 
+- Creators : Shanid
+- Genre : Two-Player, Arcade
+  
