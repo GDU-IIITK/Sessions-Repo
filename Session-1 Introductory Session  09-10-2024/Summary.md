@@ -14,6 +14,7 @@
 #### 7) [The Cursed FrostBite](#the-cursed-frostbite)
 #### 8) [Disarm It](#disarm-it)
 #### 9) [Space Slime Invasion](#space-slime-invasion)
+#### 10) [Maze Master 2](#maze-master-2)
 
 
 ### 1) <a id="dungeon-man"></a>[Dungeon Man](https://electrocubic.itch.io/dungeon-man)
@@ -91,11 +92,11 @@ Job, once a peaceful villager, lived his days in harmony—until a curse from a 
  <img src = "Assets/CursedFrostbite.png"> </img>
 </p>
 
-Job, once a peaceful villager, lived his days in harmony—until a curse from a wicked witch changed everything. Now, when night falls, he prowls the village, driven by an insatiable hunger for fresh blood. But his heart remains kind, and he refuses to let his friends become victims of his fate. So, each evening, as the sun sets, he fortifies his home, setting up barricades and defenses, doing everything he can to protect the people he loves from the monster he's become.
+Are you brave enough to take on the challenges of the Icy Caverns and climb the tricky mountain-tops full of dangerous obstacles? But BEWARE! It isn't easy as it looks, something far greater and powerful resides deep in the mountain sides. Unravel the mystery yourself! ;)
 
 - Engine : Godot 
 - Creators : Anush Bundel, Namit, Ashwin S
-- Genre : Strategy
+- Genre : Platformer
 
 ### 8) <a id="disarm-it"></a>[Disarm It](https://bharathk33.itch.io/disarm-it)
 <p align="center">
@@ -106,7 +107,7 @@ The notorious mad scientist, Dam, has trapped you in one of his twisted experime
 
 - Engine : Unity 
 - Creators : Bharath Krishnan, Krishna Narayan 
-- Genre : Platformer
+- Genre : Time Attack, Survival
 
 ### 9) <a id="space-slime-invasion"></a>[Space Slime Invasion](https://electrocubic.itch.io/space-slime-invasion)
 <p align="center">
@@ -118,3 +119,11 @@ These slimes look harmless at first glance, but their body is poisonous in natur
 - Engine : Defold 
 - Creators : Anush Bundel, Ashwin S 
 - Genre : Platformer, Arcade Shooter
+
+### 10) <a id="maze-master-2"></a>[Maze Master 2](https://strawhat-luffy.itch.io/maze-master-2)
+
+Maze Master is a strategic maze game where you must navigate through a treacherous labyrinth filled with enemies. By defeating enemies, you gain the power to open portal to create shortcuts, making your journey to the finish easier. However, every enemy defeated also strengthens the remaining ones, creating a challenging risk-reward dynamic. Collect all the elements and bring them to the altar to escape.
+
+- Engine : Unity
+- Creators : Kshitij Aucharmal, Vedant Chakkarwar, Aditya Malu
+- Genre : Action, Strategy, FPS
