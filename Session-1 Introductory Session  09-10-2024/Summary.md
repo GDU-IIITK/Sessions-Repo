@@ -130,6 +130,8 @@ These slimes look harmless at first glance, but their body is poisonous in natur
  <img src = "Assets/EclipseOfTheAbyss.png"> </img>
 </p>
 
+My first game, made in Unity. A top-down survival in mysterious dungeon. Watch out for the monsters!
+
 - Engine : Unity
 - Creators : Harsh Parekh 
 - Genre : Top-Down Survival
@@ -138,6 +140,8 @@ These slimes look harmless at first glance, but their body is poisonous in natur
 <p align="center">
  <img src = "Assets/TinyBloc.png"> </img>
 </p>
+
+A platformer game having two levels, press space to jump and A/D or left/right for movement. You can download the game’s zip file and play… or else you can use firefox browser to play the game online.
 
 - Engine : Unity 
 - Creators : Ashutosh Shukla
@@ -148,7 +152,9 @@ These slimes look harmless at first glance, but their body is poisonous in natur
  <img src = "Assets/PushDuel.png"> </img>
 </p>
 
+A game of two tiny creatures battling each other. This is a Co-op Multiplayer game, with fun minigames like pushing, shooting, football, lava rise, and many more! This game uses simple controls and is a fun way to spend time with friends
+
 - Engine : Unity 
 - Creators : Shanid
-- Genre : Two-Player, Arcade
+- Genre : Two-Player, Mini Games, Co-op
   
