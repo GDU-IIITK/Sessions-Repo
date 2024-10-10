@@ -28,7 +28,7 @@ Our core team member `Anush Bundel` spent 2 months polishing, our `WTFxIGDC game
 - Creators : Anush Bundel
 - Genre : Survival Horror
 
-### 2) <a id="funky-blueprints"></a>[Funky Blueprints](https://bharathk33.itch.io/funkyblueprints)
+### <h1> 2) <a id="funky-blueprints"></a>[Funky Blueprints](https://bharathk33.itch.io/funkyblueprints) </h1>
 <p align="center">
  <img src = "Assets/Funky%20Blueprints.png"> </img>
 </p>
@@ -39,7 +39,7 @@ The heart wants to be whole again but what perils shall lie in its path. The can
 - Creators : Anush Bundel, Gowrish I, Bharath Krishnan, Ankur Majumdar
 - Genre : Puzzle, Physics
 
-### 3) <a id="mini-brawlers"></a>[Mini Brawlers](https://electrocubic.itch.io/mini-brawlers)
+### <h1> 3) <a id="mini-brawlers"></a>[Mini Brawlers](https://electrocubic.itch.io/mini-brawlers) </h1>
 <p align="center">
  <img src = "Assets/MiniBrawlers.png"> </img>
 </p>
@@ -50,7 +50,7 @@ Chaotic dudes trying to stay alive in a fast-paced world of fiery death. One thi
 - Creators : Anush Bundel
 - Genre : Roguelike, Shooter, Arcade
 
-### 4) <a id="wing-it"></a>[Wing It](https://bharathk33.itch.io/wingit)
+### <h1> 4) <a id="wing-it"></a>[Wing It](https://bharathk33.itch.io/wingit) </h1>
 <p align="center">
  <img src = "Assets/WingIt.jpg"> </img>
 </p>
@@ -61,7 +61,7 @@ Bounce along as you try to escape the dangerous rocks falling with our young bir
 - Creators : Bharath Krishnan, Gowrish I, Govind S, Pratyush Nanda
 - Genre : Endless, Arcade 
 
-### 5) <a id="dream-sequencer"></a>[Dream Sequencer](https://electrocubic.itch.io/dream-sequencer)
+### <h1> 5) <a id="dream-sequencer"></a>[Dream Sequencer](https://electrocubic.itch.io/dream-sequencer) </h1>
 <p align="center">
  <img src = "Assets/DreamSequencer.png"> </img>
 </p>
@@ -75,7 +75,7 @@ Made during the GameVita 3.0 Game Jam hosted by GameDevUtopia. Made in 4 days in
 - Creators : Anush Bundel, Ashwin S, Alex Gijo
 - Genre : Puzzle, Platformer 
 
-### 6) <a id="duel"></a>[Duel](https://bharathk33.itch.io/duel)
+### <h1> 6) <a id="duel"></a>[Duel](https://bharathk33.itch.io/duel) </h1>
 <p align="center">
  <img src = "Assets/Duel.png"> </img>
 </p>
@@ -86,7 +86,7 @@ Job, once a peaceful villager, lived his days in harmony—until a curse from a 
 - Creators : Bharath Krishnan, Krishna Narayan 
 - Genre : Strategy
 
-### 7) <a id="the-cursed-frostbite"></a>[The Cursed Frostbite](https://electrocubic.itch.io/the-cursed-frostbite)
+### <h1> 7) <a id="the-cursed-frostbite"></a>[The Cursed Frostbite](https://electrocubic.itch.io/the-cursed-frostbite) </h1>
 <p align="center">
  <img src = "Assets/CursedFrostbite.png"> </img>
 </p>
@@ -97,7 +97,7 @@ Are you brave enough to take on the challenges of the Icy Caverns and climb the
 - Creators : Anush Bundel, Namit, Ashwin S
 - Genre : Platformer
 
-### 8) <a id="disarm-it"></a>[Disarm It](https://bharathk33.itch.io/disarm-it)
+### <h1> 8) <a id="disarm-it"></a>[Disarm It](https://bharathk33.itch.io/disarm-it) </h1>
 <p align="center">
  <img src = "Assets/DisarmIt.jpg"> </img>
 </p>
@@ -108,7 +108,7 @@ The notorious mad scientist, Dam, has trapped you in one of his twisted experime
 - Creators : Bharath Krishnan, Krishna Narayan 
 - Genre : Time Attack, Survival
 
-### 9) <a id="space-slime-invasion"></a>[Space Slime Invasion](https://electrocubic.itch.io/space-slime-invasion)
+### <h1> 9) <a id="space-slime-invasion"></a>[Space Slime Invasion](https://electrocubic.itch.io/space-slime-invasion) </h1>
 <p align="center">
  <img src = "Assets/SpaceSlimeInvasion.png"> </img>
 </p>
