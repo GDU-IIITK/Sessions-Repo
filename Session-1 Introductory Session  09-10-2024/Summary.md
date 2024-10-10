@@ -14,7 +14,6 @@
 #### 7) [The Cursed FrostBite](#the-cursed-frostbite)
 #### 8) [Disarm It](#disarm-it)
 #### 9) [Space Slime Invasion](#space-slime-invasion)
-#### 10) [Maze Master 2](#maze-master-2)
 
 
 ### 1) <a id="dungeon-man"></a>[Dungeon Man](https://electrocubic.itch.io/dungeon-man)
@@ -120,10 +119,3 @@ These slimes look harmless at first glance, but their body is poisonous in natur
 - Creators : Anush Bundel, Ashwin S 
 - Genre : Platformer, Arcade Shooter
 
-### 10) <a id="maze-master-2"></a>[Maze Master 2](https://strawhat-luffy.itch.io/maze-master-2)
-
-Maze Master is a strategic maze game where you must navigate through a treacherous labyrinth filled with enemies. By defeating enemies, you gain the power to open portal to create shortcuts, making your journey to the finish easier. However, every enemy defeated also strengthens the remaining ones, creating a challenging risk-reward dynamic. Collect all the elements and bring them to the altar to escape.
-
-- Engine : Unity
-- Creators : Kshitij Aucharmal, Vedant Chakkarwar, Aditya Malu
-- Genre : Action, Strategy, FPS
