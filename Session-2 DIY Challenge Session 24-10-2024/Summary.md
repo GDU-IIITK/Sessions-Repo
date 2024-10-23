@@ -8,7 +8,7 @@ We will have three levels for each of the category
 1) Game Design
    1) Level 1 - Make a small prototype and implement a single mechanic based on the given theme 
    
-   2) Level 2 - Make a small Level and have multiple mechanics
+   2) Level 2 - Make a small Level and have multiple mechanics / supporting mechanics matching the theme
    
    3) Level 3 - Make a proper level progression and implement all the mechanics properly
 
