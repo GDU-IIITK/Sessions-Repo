@@ -1,7 +1,7 @@
 # <p align="center"> DIY Challenges </p>
 #### Date: 24/10/2024
 
-Theme:  **Accumulation**
+## Theme:  **Accumulation**
 
 We will have three levels for each of the category
 
@@ -27,4 +27,8 @@ We will have three levels for each of the category
    2) Level 2 - Find Sound Effects for the given theme
    
    3) Level 3 - Create a whole piece of music / background music from scratch on the given theme
+
+## Links for the resources:
+### <a href="Resources/Godot-Resources.md">Godot Resources</a>
+
 
