@@ -29,6 +29,6 @@ We will have three levels for each of the category
    3) Level 3 - Create a whole piece of music / background music from scratch on the given theme
 
 ## Links for the resources:
-### <a href="Session-2 DIY Challenge Session 24-10-2024/Resources/Godot-resources.md">Godot Resources</a>
+### <a href="../Resources/Godot-resources.md">Godot Resources</a>
 
 
