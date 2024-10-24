@@ -30,7 +30,9 @@
 - I highly recommend this tutorial after completing the basics, if you have a basic grasp over the unity editor.
 
 ## [Unity Intermediate : Complete 2D Platformer](https://www.youtube.com/watch?v=2pk1PPlS5Xs&list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV&index=15)
+![Platformer](./Assets/Platformer.png)
 
+### What you will learn
 - Build a Platformer Controller
 - Covers Everything From Player Respawns to Pause Meny
 - Learn how to handle spritesheets and tilemaps
