@@ -13,10 +13,10 @@
 ![Unity Basic](./Assets/UnityBasic.png)
 
 ### What you will learn
-- A structured tutorial for beginner covering the basics of Unity
+- A structured tutorial for beginners covering the basics of Unity
 - A good starting point for beginners
-- Provides gneral ideas to be used in all kinds of projects
-- Learn game development using the wll known flappy bird game
+- Provides general ideas to be used in all kinds of projects
+- Learn game development using the well known flappy bird game
 
 
 ## [Unity Intermediate : Tanks](https://learn.unity.com/project/tanks-tutorial?uv=5.x)
@@ -24,7 +24,7 @@
 ![Tanks](./Assets/Tanks.png)
 
 ### What you will learn
-- Learn how to make a classic one keyboard pvp game 
+- Learn how to make a classic one keyboard PvP game 
 - Covers Everything from Character Controller to Game Management
 - Challenge : Try to add powerups and health pickups
 - I highly recommend this tutorial after completing the basics, if you have a basic grasp over the unity editor.
