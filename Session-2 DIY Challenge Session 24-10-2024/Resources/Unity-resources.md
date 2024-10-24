@@ -34,7 +34,7 @@
 
 ### What you will learn
 - Build a Platformer Controller
-- Covers Everything From Player Respawns to Pause Meny
+- Covers Everything From Player Respawns to Pause Menu
 - Learn how to handle spritesheets and tilemaps
 
 ## General Resources
@@ -46,7 +46,7 @@
 
 ### Intermediate Resources 
 - [Book : Unity In Action](https://github.com/kurong00/GameProgramBooks/blob/master/05.Game%20Programming/Beginning%20Game%20Programming/From%20Unity/Unity%20In%20Action.pdf)
-- [Intermediate to Advance : CatLikeCoding](https://catlikecoding.com/unity/tutorials/)
+- [Intermediate to Advanced : CatLikeCoding](https://catlikecoding.com/unity/tutorials/)
 
 ### Advanced Resources 
 - [Advanced Unity : Sebastien-Lague](https://www.youtube.com/@SebastianLague)
