@@ -12,7 +12,7 @@ A series of tutorials explaining how to create a basic 2D shooter game in Godot 
 
 
 ### `The Ultimate Introduction to Godot 4: `
-If you are interested in learning the everything about Godot, then this 11 hour tutorial covers literally almost every aspect of using Godot Game Engine in-depth with clear examples and great exercises.
+If you are interested in learning everything about Godot, then this 11 hour tutorial covers literally almost every aspect of using Godot Game Engine in-depth with clear examples and great exercises.
 https://youtu.be/nAh_Kx5Zh5Q?si=AtFE6X4o-LE9jwiU
 
 ### `Creating a Metroid inspired platformer in Godot:`
