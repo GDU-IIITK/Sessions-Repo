@@ -1,5 +1,7 @@
 # RAYLIB
 
+![communityIcon_efieflhrcrx71](https://github.com/user-attachments/assets/a4d9fd61-6052-4927-ab08-15ef743ad14e)
+
 Raylib is a cross-platform open-source software development library. The library was made to create graphical applications and games.
 Its originally a C library, but it can be used in C++ as well. Raylib has been ported many other lnaguages like python as well.
 
