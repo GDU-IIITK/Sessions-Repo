@@ -19,4 +19,6 @@ https://youtu.be/nAh_Kx5Zh5Q?si=AtFE6X4o-LE9jwiU
 If you want to dive into a shooter platformer, then this video covers many aspects of creating one in Godot.
 https://youtu.be/rwAXeJ9kjZ0?si=7nfy4HVnmYxTekhq
 
-
+### `An Introduction to Shaders in Godot:`
+If you are a shader enthusiast and want to learn how shaders work in Godot, this tuturial covers the basic concepts of shaders and how visual shaders are created.
+https://youtu.be/zRBlvSd5lPs?si=AKXE1DqSO70J5YRN
