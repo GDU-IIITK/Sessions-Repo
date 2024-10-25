@@ -30,7 +30,7 @@ We will have three levels for each of the category
 
 ## Links for the resources:
 ### <a href="../Session-2 DIY Challenge Session 24-10-2024/Resources/Godot-resources.md">Godot Engine Resources</a>
-### <a href="../Session-2 DIY Challenge Session 24-10-2024/Resources/Unity-resources.md">Untiy Engine Resources</a>
+### <a href="../Session-2 DIY Challenge Session 24-10-2024/Resources/Unity-resources.md">Unity Engine Resources</a>
 ### <a href="../Session-2 DIY Challenge Session 24-10-2024/Resources/Raylib-resources.md">Raylib Framework Resources</a>
 
 
