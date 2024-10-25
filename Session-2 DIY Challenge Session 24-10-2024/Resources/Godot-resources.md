@@ -1,6 +1,8 @@
 
 # Resources for Godot Game Engine
 
+
+### `Godot Official Documentation`
 The Godot Documentation comes in very handy for understanding the basic working of the Godot Game Engine, and I recommend to atleast go through the basics once. It also contains description for all the functions and great for understanding GD script (which is very similar to Python) https://docs.godotengine.org/en/stable/getting_started/introduction/introduction_to_godot.html
 
 ### `Godot Game Development - Crash Course for Beginners:` 
